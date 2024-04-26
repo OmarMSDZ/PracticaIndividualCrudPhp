@@ -1,0 +1,3 @@
+Crud de la tabla de paquetes de la BD de SanTrips 
+
+-Hecho por Omar M. #21, 6to INF 2024
